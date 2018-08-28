@@ -112,6 +112,6 @@ var captcha = String(Math.random()).charAt(4) + String(Math.random()).charAt(4) 
 
 });
  
-client.login("NDgzODU5OTQ4MDMyMzYwNDQ5.DmZlrQ.ENv6TBHim1_4osmKnElcxuMdC6g");
+client.login(process.env.TOKEN);
 
 
