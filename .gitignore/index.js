@@ -8,7 +8,7 @@ client.on("ready", () => {
 var TailleMembres = client.users.size;
 var TailleServeurs = client.guilds.size;
 
-client.user.setGame("la daronne de paradoxe est méga bonne");
+client.user.setGame("STAT FINISH APP 70%");
 
 console.log("--------------------------------------");
 
