@@ -8,7 +8,7 @@ client.on("ready", () => {
 var TailleMembres = client.users.size;
 var TailleServeurs = client.guilds.size;
 
-client.user.setGame("Dev: sneaky");
+client.user.setGame("la daronne de paradoxe est méga bonne");
 
 console.log("--------------------------------------");
 
