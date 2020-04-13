@@ -8,7 +8,7 @@ client.on("ready", () => {
 var TailleMembres = client.users.size;
 var TailleServeurs = client.guilds.size;
 
-client.user.setGame("FINISH APP 70%");
+client.user.setGame("PROGRESS 80%");
 
 console.log("--------------------------------------");
 
